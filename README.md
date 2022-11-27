@@ -1,3 +1,3 @@
 # multi-query-optimization
 
-Find out more details about this project in "multi-query-optimization.pdf". 
+I am currently implementing this project in Java. Find out more details about the problem statement and proposed algorithm in "multi-query-optimization.pdf". 
